@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Social Advertisement Forecasting</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/Harry.ico" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </body>
+        <!-- Responsive navbar-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container">
+                <a class="navbar-brand" href="#">Social Advertisement Forecasting</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="https://harrysingh1998.github.io/">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" href="file:///C:/Users/User/Downloads/LEAD/Harry's%20Portfolio/dist/index.html#about">About Harry Singh</a></li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Portfolio Projects</a>
+                            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="https://colab.research.google.com/drive/1jw_wcvtZfxXZ_8tpyGmQX0GvYdw_0Zlr?usp=sharing">Exploratory Data Analysis on America's Top Colleges</a></li>
+                                <li><a class="dropdown-item" href="https://colab.research.google.com/drive/1PG3ycjs6MjncipigS9rroqSQAQMyZfMw?usp=sharing">Building Decision Tree: Framingham Heart Disease Dataset</a></li>
+                                <li><a class="dropdown-item" href="https://colab.research.google.com/drive/1l76Q2LjlFPDMn8V4VwDW85T7lc_8L2w6?usp=sharing">Telco Churn Analytics</a></li>
+                                <li><a class="dropdown-item" href="https://colab.research.google.com/drive/1IAXO6C5crGCO-C8HwgLk3j4x2_Ad1V7-?usp=sharing">Regression Analysis on Heart Disease</a></li>
+                                <li><a class="dropdown-item" href="https://colab.research.google.com/drive/1zGF3yTec8BEw3STYkrlcb3FRf1v_-Avm?usp=sharing">Social Advertisement Forecasting</a></li>
+                                <li><a class="dropdown-item" href="https://colab.research.google.com/drive/19YtaBk5MQfHa-N3hG3kgZ4PDSg6imN6O?usp=sharing">Sentiment Analysis for TripAdvisor Reviews</a></li>
+                                <li><hr class="dropdown-divider" /></li>
+                                <li><a class="dropdown-item" href="file:///C:/Users/User/Downloads/LEAD/Harry's%20Portfolio/dist/index.html#contact">Contact Me</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page content-->
+        <div class="container">
+            <div class="text-center mt-5">
+                <h1>What Is Social Advertising?</h1>
+                <img src="assets/socmedia.jpg" class='img-fluid' /><br>
+                <br>
+                <p class="black">Social advertising is the process of creating and deploying clickable ads to reach target audiences. 
+                    You can reach them through social media platforms, messaging apps, news feeds, and even outside apps and websites. 
+                    Companies use social advertising campaigns to build brand awareness, generate leads, 
+                    and/or capture sales revenue.There are many social advertising channels available but the ones that 
+                    will be mostly focused here are:</p><br>
+                    <br>
+
+                <img src="assets/google.jpg" class='img-fluid' /><br>
+                <br>
+                <p class="black">idk, **Google** it?</p><br>
+                <br>
+
+                <img src="assets/fb.jpg" class='img-fluid' /><br>
+                <br>
+                <p class="black">**Facebook** is a social network, not a diary!</p><br>
+                <br>
+
+                <img src="assets/IG.jpg" class='img-fluid' /><br>
+                <br>
+                <p class="black">Snap and share with **Instagram**</p><br>
+                <br>
+            </div>
+
+            <div>
+                <h2>Benefits of Social Media Advertising ?</h2>
+                <p, class="black">Social media permeates daily life. It’s where users keep up with friends, interests, and events on a daily basis.
+                The sheer number of people who can be reached through social media platforms is staggering. 
+                But there are other benefits, perhaps even more important ones, that make social advertising a uniquely valuable 
+                investment.</p>
+                <h4>1) Brand Awareness</h4>
+                <p class="black">Social advertising offers startups and small businesses a fighting chance in a crowded, noisy field of competitors. 
+                In fact, there’s no better way to reach people. People who would likely be interested in a new product, service, or app. 
+                Specifically based on their individual characteristics, interests, and past behaviors.</p>
+                <h4>2) Improved Conversion Rates</h4>
+                <p class="black">Social advertising is less likely to trigger people’s natural resistance to sales.
+                It’s also likelier to grab users’ attention, as they’re more actively engaged on social 
+                media platforms than with traditional channels. </p>
+                <h4>3) Brand Loyalty</h4>
+                <p class="black">Social advertising keeps brands top of mind for past buyers. But it also reaffirms their choices. 
+                Which turns them into brand ambassadors who are eager to bring friends and family on board.</p>
+                <h4>4) Marketing Insights</h4>
+                <p class="black">Social advertisers can measure both brand sentiment and campaign performance.Advertisers can also 
+                see what’s working with various target audiences. </p><br>
+                <br>
+                <h1>The Business Question ?</h1>
+                <p, class="black">If a company would like to expand into a new market, how much they should spend on Google, Facebook and Instagram ? 
+                    Also, what is their expected revenue that can be generated given a particular budget?</p>
+
+            </div>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
